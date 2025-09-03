@@ -4,6 +4,7 @@ import Section3 from "./components/Section3"
 import './App.css'
 import Section4 from "./components/Section4"
 import Section5 from "./components/Section5"
+import TeamSection from "./components/TeamSection"
 
 function App() {
 
