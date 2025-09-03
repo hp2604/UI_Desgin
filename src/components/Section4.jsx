@@ -3,7 +3,7 @@ import React from "react";
 function Section4(){
     return (
     <>
-    <div className="flex flex-col md:gap-9">
+    <div className="flex flex-col    md:gap-9 ">
 
         {/* Heading Section */}
         <div className="flex flex-col items-center ">
