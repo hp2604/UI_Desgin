@@ -3,7 +3,7 @@ import React from "react";
 function Section4(){
     return (
     <>
-    <div className="flex flex-col    md:gap-9 ">
+    <div className="flex flex-col items-center   md:gap-9 ">
 
         {/* Heading Section */}
         <div className="flex flex-col items-center ">
@@ -26,7 +26,7 @@ function Section4(){
 
         {/* Reviews */}
         <div className="flex justify-center ">
-            <div className="flex flex-col items-center md:w-[380px] md:h-[506.98px] ">
+            <div className="flex flex-col items-center md:w-[380px] ">
                 <img src="/src/assets/user1.png" alt=""  className="  md:w-[140px] md:h-[140px]"/>
                 <div className="md:w-[380px] ">
                     <h4 className=" text-center text-[rgba(30,45,120,1)] font-semibold   md:h-[45px] md:text-[27px] leading-[34.99px] " >Quick, easy & reliable</h4>
@@ -35,7 +35,7 @@ function Section4(){
                     Duis sed odio sit amet nibh vulputate cursus a sit am mauris. Morbi accumsan sum ipsum velit. Nam nec tellus am od tincidunt auctor.
                 </div>
             </div>
-             <div className="flex flex-col items-center md:w-[380px] md:h-[506.98px] ">
+             <div className="flex flex-col items-center md:w-[380px]  ">
                 <img src="/src/assets/user2.png" alt=""  className="  md:w-[140px] md:h-[140px]"/>
                 <div className="md:w-[380px] ">
                     <h4 className=" text-center text-[rgba(30,45,120,1)] font-semibold   md:h-[45px] md:text-[27px] leading-[34.99px] " >The best clinic in town</h4>
@@ -44,7 +44,7 @@ function Section4(){
                  Duis sed odio sit amet nibh vulputate cursus a sit am mauris. Morbi accumsan sum ipsum velit. Nam nec tellus am od tincidunt auctor.
                 </div>
             </div>
-             <div className="flex flex-col items-center md:w-[380px] md:h-[506.98px] ">
+             <div className="flex flex-col items-center md:w-[380px] ">
                 <img src="/src/assets/user3.png" alt=""  className="  md:w-[140px] md:h-[140px]"/>
                 <div className="md:w-[380px] ">
                     <h4 className=" text-center text-[rgba(30,45,120,1)] font-semibold   md:h-[45px] md:text-[27px] leading-[34.99px] " >The true professionals</h4>
