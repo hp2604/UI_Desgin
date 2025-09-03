@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-    <div className="wraper">
+    <div className="flex flex-col gap-10">
     <Header/>
     <Section2/>
     <Section3/>
