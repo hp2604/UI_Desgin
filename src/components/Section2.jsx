@@ -34,32 +34,55 @@ function Section2(){
            </div>
     </div>
 
-    <div className=" flex flex-col m-auto  md:w-[1300px] md:h-[265px]">
+    <div className=" flex gap-10 flex-col m-auto  md:w-[1300px] md:h-[265px]">
         <div className="flex">
             <div className="flex  md:w-[398.33px] md:h-[96px]" >
-                <img src="/src/assests/img-4.png" alt="" />
-                <div>
-                     <h2> Root Canal Specialist</h2>
-                     <p> Vix nibh iudicabit necessitus et, quam inermis voluptatus.</p>
+                <img src="/src/assests/img-4.png" alt="" className="md:w-[97px] md:h-[96px]" />
+                <div className="md:w-[273.33px] md:h-[86px]">
+                     <h2 className=" text-[rgba(30,45,120,1)] font-semibold md:leading-6  md:text-[19px] "> Root Canal Specialist</h2>
+                     <p className=" text-[rgba(138,138,138,1)]  md:h-[95px] md:font-normal md:text-[15px] leading-6"> Vix nibh iudicabit necessitus et, quam inermis voluptatus.</p>
                 </div>
             </div>
             <div className="flex  md:w-[398.33px] md:h-[96px]" >
-                <img src="/src/assests/img-4.png" alt="" />
+                <img src="/src/assests/img-5.png" alt=""  className="md:w-[97px] md:h-[96px]"/>
                 <div>
-                     <h2> Root Canal Specialist</h2>
-                     <p> Vix nibh iudicabit necessitus et, quam inermis voluptatus.</p>
+                     <h2 className=" text-[rgba(30,45,120,1)] font-semibold md:leading-6  md:text-[19px] ">Alignment Specialist</h2>
+                     <p className=" text-[rgba(138,138,138,1)]  md:h-[95px] md:font-normal md:text-[15px] leading-6"> Vix nibh iudicabit necessitus et, quam inermis voluptatus.</p>
                 </div>
             </div>
             <div className="flex  md:w-[398.33px] md:h-[96px]" >
-                <img src="/src/assests/img-4.png" alt="" />
+                <img src="/src/assests/img-6.png" alt="" className="md:w-[97px] md:h-[96px]" />
                 <div>
-                     <h2> Root Canal Specialist</h2>
-                     <p> Vix nibh iudicabit necessitus et, quam inermis voluptatus.</p>
+                     <h2 className=" text-[rgba(30,45,120,1)] font-semibold md:leading-6  md:text-[19px] "> Cosmetic Dentistry</h2>
+                     <p className=" text-[rgba(138,138,138,1)]  md:h-[95px] md:font-normal md:text-[15px] leading-6"> Vix nibh iudicabit necessitus et, quam inermis voluptatus.</p>
                 </div>
             </div>
             
         </div>
-        <div></div>
+         <div className="flex">
+            <div className="flex  md:w-[398.33px] md:h-[96px]" >
+                <img src="/src/assests/img-7.png" alt="" className="md:w-[97px] md:h-[96px]" />
+                <div>
+                     <h2 className=" text-[rgba(30,45,120,1)] font-semibold md:leading-6  md:text-[19px] "> Oral Hygiene Experts</h2>
+                     <p className=" text-[rgba(138,138,138,1)]  md:h-[95px] md:font-normal md:text-[15px] leading-6"> Vix nibh iudicabit necessitus et, quam inermis voluptatus.</p>
+                </div>
+            </div>
+            <div className="flex  md:w-[398.33px] md:h-[96px]" >
+                <img src="/src/assests/img-8.png" alt="" className="md:w-[97px] md:h-[96px]" />
+                <div>
+                     <h2 className=" text-[rgba(30,45,120,1)] font-semibold md:leading-6  md:text-[19px] ">Live Dental Advisory</h2>
+                     <p className=" text-[rgba(138,138,138,1)]  md:h-[95px] md:font-normal md:text-[15px] leading-6"> Vix nibh iudicabit necessitus et, quam inermis voluptatus.</p>
+                </div>
+            </div>
+            <div className="flex  md:w-[398.33px] md:h-[96px]" >
+                <img src="/src/assests/img-9.png" alt=""  className="md:w-[97px] md:h-[96px]"/>
+                <div>
+                     <h2 className=" text-[rgba(30,45,120,1)] font-semibold md:leading-6  md:text-[19px] "> Cavity Inspection</h2>
+                     <p className=" text-[rgba(138,138,138,1)]  md:h-[95px] md:font-normal md:text-[15px] leading-6"> Vix nibh iudicabit necessitus et, quam inermis voluptatus.</p>
+                </div>
+            </div>
+            
+        </div>
     </div>
     </>
     );
