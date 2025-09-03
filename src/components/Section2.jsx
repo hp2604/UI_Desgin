@@ -2,9 +2,9 @@ import React from "react";
 
 function Section2(){
     return ( 
-    <>
-    <div className=" flex m-auto  md:w-[1300px] md:h-[556px] md:mt-6 " >
-        <div className="md:w-[433.33px] md:h-[556px] ">
+    <div className="flex flex-col items-center">
+    <div className=" flex    md:w-[1300px] md:h-[556px]  " >
+        <div className="  md:w-[433.33px] md:h-[556px] ">
             <img src="/src/assests/img-1.png" alt="" className=" rounded-md md:h-[254.7px] md:w-[413.33px] " />
             <h6 className=" text-[rgba(30,45,120,1)] md:w-[368.95px] md:h-[79.98px]  md:font-semibold md:text-[27px] md:leading-[34.99px]   ">
                 Pick the dentist that fits all your needs the best
@@ -84,7 +84,7 @@ function Section2(){
             
         </div>
     </div>
-    </>
+    </div>
     );
 }
 
