@@ -39,8 +39,8 @@ const Header = () => {
       </div>
 
       <div className="background-img">
-        <p>DENTAL PRACTICE</p>
-        <h1>We provide the best <br />services out there</h1>
+        <p><span>DENTAL PRACTICE</span></p>
+        <h1><span>We provide the best </span><br /><span>services out there</span></h1>
       </div>
 
     </div>
