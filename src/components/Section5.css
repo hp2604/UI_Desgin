@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.discount-panel{
+    background-color: #2E3192;
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+}
+
+.discount-content h1{
+    font-family: Catamaran;
+font-weight: 600;
+font-style: SemiBold;
+font-size: 35px;
+line-height: 43.99px;
+letter-spacing: 0%;
+vertical-align: middle;
+}
+
+.discount-content h1 span{
+    font-family: Catamaran;
+font-weight: 600;
+font-style: SemiBold;
+font-size: 35px;
+line-height: 43.99px;
+letter-spacing: 0%;
+vertical-align: middle;
+
+}
