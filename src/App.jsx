@@ -11,8 +11,10 @@ function App() {
     <div className="flex flex-col gap-10">
     <Header/>
     <Section2/>
+
     <Section3/>
     <Section4/>
+
     </div>
  
     </>
