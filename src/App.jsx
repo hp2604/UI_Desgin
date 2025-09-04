@@ -5,6 +5,7 @@ import './App.css'
 import Section4 from "./components/Section4"
 import Section5 from "./components/Section5"
 import TeamSection from "./components/TeamSection"
+import NewsSection from "./components/NewsSection"
 
 function App() {
 
@@ -16,7 +17,8 @@ function App() {
     <Section3/>
     <Section4/>
     <Section5/>
-
+    <TeamSection/>
+    <NewsSection/>
     </div>
  
     </>
