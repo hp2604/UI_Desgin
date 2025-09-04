@@ -19,6 +19,7 @@ function App() {
     <Section4/>
     <Section5/>
     <TeamSection/>
+    <Section7/>
     <NewsSection/>
     </div>
  
