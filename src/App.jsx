@@ -6,6 +6,7 @@ import Section4 from "./components/Section4"
 import Section5 from "./components/Section5"
 import TeamSection from "./components/TeamSection"
 import NewsSection from "./components/NewsSection"
+import Section7 from "./components/Section7"
 
 function App() {
 
